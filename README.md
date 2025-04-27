@@ -1,6 +1,15 @@
-# Bogo-Data-Analysis
-**Tool Used:** Excel
+# Bogo Data Analysis
 
-- Performed in-depth data cleaning and analysis on a dataset with 200K+ records.
-- Used pivot tables, slicers, and interactive dashboards to extract key business insights, user trends, and membership activity.
-- Highlighted customer retention rates and promotional success.
+## Project Overview
+This project involves a detailed data cleaning and analysis of a large dataset (200,000+ records) related to Bogo membership activities. The analysis was done using Microsoft Excel with pivot tables and slicers to highlight key insights like user trends, email verification status, and overall business performance.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Interactive Dashboard (Slicers and Charts)
+
+## Key Highlights
+- Cleaned and organized 200K+ rows of raw data.
+- Created interactive pivot tables and dashboards.
+- Analyzed membership trends, email verification rates, and active user behaviors.
+
