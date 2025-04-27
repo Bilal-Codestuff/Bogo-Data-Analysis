@@ -1,2 +1,6 @@
 # Bogo-Data-Analysis
-Performed in-depth data cleaning and analysis on a dataset of over 200,000 records using Excel. Created pivot tables, dashboards, and slicers to identify business insights, user trends, and membership activity patterns.
+**Tool Used:** Excel
+
+- Performed in-depth data cleaning and analysis on a dataset with 200K+ records.
+- Used pivot tables, slicers, and interactive dashboards to extract key business insights, user trends, and membership activity.
+- Highlighted customer retention rates and promotional success.
